@@ -1,2 +1,2 @@
 # Plant-Layouts
-During my work as a Project Engineer in Sekhmet Pharmaventures  , I have designed and authorised various Piping and Instrumentation Diagrams for Plant ,  which set as vibrant design frame for Pharma Plant respectively .
+During my work as a Project Engineer in Sekhmet Pharmaventures  , I have designed and authorised various Piping and Instrumentation Diagrams for Plant ,  which set as vibrant design frame for Pharma Plant respectively . i have a specifically made a report which describes basic start to finish stages of the project inclusive of my work from starting to final in a descriptive pattern. 
